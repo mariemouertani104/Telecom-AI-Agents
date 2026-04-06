@@ -1,5 +1,5 @@
 # Telecom AI Agent — MVP
-
+ IN Telecommunications: Agents can autonomously configure and optimize networks, reducing both complexity and the risk of human error.
 Agent autonome de diagnostic et configuration réseau basé sur Claude.
 
 ## Démarrage rapide (Codespaces)
